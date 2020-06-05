@@ -1,2 +1,2 @@
-# REPOSITORY_ONE_HELLOW_WORLD
-This si my first GitHub Public Repository
+# REPOSITORY_ONE_HELLO_WORLD
+This is my first GitHub Public Repository
